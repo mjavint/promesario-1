@@ -1,0 +1,14 @@
+Basics:
+* GUI file for graphics definitions
+* File for manage interaction between GUI and database
+
+Plugins(id production):
+* Database generator for new databases(future restore option)
+* Email sender
+* Adding notes to cites
+* Possibility to select also phrases
+
+Files:
+* Readme file
+* Component report
+* Basic promesas and frases files(for future restore option)
